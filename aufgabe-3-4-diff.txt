@@ -1,0 +1,8 @@
+0a1,2
+> A  bar.txt
+> A  foo.txt
+2,3c4
+< ?? bar.txt
+< ?? foo.txt
+---
+> ?? aufgabe-4.out
