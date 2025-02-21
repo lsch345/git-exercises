@@ -1,0 +1,3 @@
+1. Beim Löschen mit rm bleibt die Datei als 'untracked' in git status. Mit git rm wird die Datei als entfernt vorgemerkt.
+2. Um beide Dateien wiederherzustellen: 'git checkout -- file1.txt' und 'git reset file2.txt && git checkout -- file2.txt'.
+3. 'git mv' ist besser, weil Git die Änderung automatisch erkennt und trackt.
