@@ -1,0 +1,2 @@
+1. Letzte 5 Commits kompakt anzeigen: git log --oneline -n 5
+2. Commits eines bestimmten Autors anzeigen: git log --author='Leandro Schwegler'
